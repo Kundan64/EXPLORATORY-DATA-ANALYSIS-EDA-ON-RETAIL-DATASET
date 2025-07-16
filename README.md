@@ -14,8 +14,11 @@ Highlight actionable insights using data visualizations
 **🧰 Tools & Technologies**
 
 Python
+
 Pandas – data manipulation
+
 NumPy – numerical calculations
+
 Matplotlib & Seaborn – data visualization
 
 **📁 Dataset Summary**
