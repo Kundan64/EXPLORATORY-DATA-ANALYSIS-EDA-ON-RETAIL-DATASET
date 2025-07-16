@@ -7,8 +7,11 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a retail s
 **📊 Objectives**
 
 Analyze overall sales trends over time
+
 Identify seasonality in monthly sales
+
 Understand category-wise and region-wise performance
+
 Highlight actionable insights using data visualizations
 
 **🧰 Tools & Technologies**
@@ -24,10 +27,15 @@ Matplotlib & Seaborn – data visualization
 **📁 Dataset Summary**
 
 The dataset contains detailed retail transaction records including:
+
 Order Date
+
 Sales
+
 Category & Sub-Category
+
 Region, State, and City
+
 Quantity, Profit, Discount
 
 **📈 Key Analyses & Visualizations**
