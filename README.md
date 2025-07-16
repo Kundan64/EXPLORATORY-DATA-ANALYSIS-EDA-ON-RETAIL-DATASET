@@ -14,11 +14,8 @@ Highlight actionable insights using data visualizations
 **🧰 Tools & Technologies**
 
 Python
-
 Pandas – data manipulation
-
 NumPy – numerical calculations
-
 Matplotlib & Seaborn – data visualization
 
 **📁 Dataset Summary**
@@ -31,6 +28,7 @@ Region, State, and City
 Quantity, Profit, Discount
 
 **📈 Key Analyses & Visualizations**
+
 ✔️ Yearly Sales Trend
 Shows a clear upward trend in total sales over the years.
 
@@ -47,6 +45,7 @@ Office Supplies lead in total sales, followed by Technology and Furniture.
 The West region is the top performer, while the South region shows growth potential.
 
 **📌 Insights**
+
 High-performing periods: November, December, and February
 
 Underperforming months: Mid-year (April–August)
