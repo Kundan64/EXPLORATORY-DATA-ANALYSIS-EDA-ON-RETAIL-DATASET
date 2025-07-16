@@ -1,17 +1,17 @@
 # 🛍️ Exploratory Data Analysis (EDA) on Retail Sales Dataset
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a retail sales dataset to uncover insights about sales performance, trends, patterns, and seasonality. Using powerful data analysis and visualization tools in Python, the aim is to assist business decision-making and strategy development.
 
-📊 Objectives
+**📊 Objectives**
 
 Analyze overall sales trends over time
 Identify seasonality in monthly sales
 Understand category-wise and region-wise performance
 Highlight actionable insights using data visualizations
 
-🧰 Tools & Technologies
+**🧰 Tools & Technologies**
 
 Python
 
@@ -21,7 +21,7 @@ NumPy – numerical calculations
 
 Matplotlib & Seaborn – data visualization
 
-📁 Dataset Summary
+**📁 Dataset Summary**
 
 The dataset contains detailed retail transaction records including:
 Order Date
@@ -30,10 +30,8 @@ Category & Sub-Category
 Region, State, and City
 Quantity, Profit, Discount
 
-📈 Key Analyses & Visualizations
-
+**📈 Key Analyses & Visualizations**
 ✔️ Yearly Sales Trend
-
 Shows a clear upward trend in total sales over the years.
 
 ✔️ Monthly Sales Trend
@@ -48,8 +46,7 @@ Office Supplies lead in total sales, followed by Technology and Furniture.
 ✔️ Region-wise Sales
 The West region is the top performer, while the South region shows growth potential.
 
-📌 Insights
-
+**📌 Insights**
 High-performing periods: November, December, and February
 
 Underperforming months: Mid-year (April–August)
